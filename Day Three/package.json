@@ -1,0 +1,21 @@
+{
+  "name": "day-three",
+  "version": "2.0.0",
+  "description": "conavert string camel case to snake case",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch app.js"
+  },
+  "keywords": [],
+  "author": "Ayan Sheikh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.6.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git"
+  }
+}
